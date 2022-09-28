@@ -17,7 +17,7 @@ header2{
 
 }
 .hero-Img{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0,0,0, 0.5)), url("images/snow.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0,0,0, 0.5)), url("snow.jpg");
     height: 100%;
     width: 100%;
     background-position: center;
@@ -27,7 +27,7 @@ header2{
     overflow-y:hidden;
 }
 .bgI{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0,0,0, 0.5)), url("images/canyon.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0,0,0, 0.5)), url("canyon.jpg");
     height: 100%;
     width: 100%;
     background-position: center;
